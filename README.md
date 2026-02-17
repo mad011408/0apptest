@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # v0 SDK Monorepo
 
 > **⚠️ Developer Preview**: This SDK is currently in beta and is subject to change. Use in production at your own risk.
@@ -164,3 +165,7 @@ The project includes GitHub Actions workflows:
 ## License
 
 Apache 2.0
+=======
+# 0apptest
+dont use ........
+>>>>>>> 21b27dee00011e80055fcce6c9e4fb7fe9b2569d
